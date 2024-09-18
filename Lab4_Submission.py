@@ -8,6 +8,7 @@ from pgmpy.models import BayesianNetwork
 from pgmpy.estimators import MaximumLikelihoodEstimator
 from pgmpy.inference import VariableElimination
 
+# 'anuj' is our teammate sir
 zip_file_path = r'C:\Users\anujs\Downloads\thyroid+disease.zip'
 extracted_folder_path = r'C:\Users\anujs\Downloads\thyroid\disease'
 
